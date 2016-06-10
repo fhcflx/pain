@@ -13,12 +13,13 @@ Grupo controle: injeção i.p. de veículo (SF0,9%) no mesmo volume, na mesma se
 O horário das injeções foi padronizado para ambos os grupos.
 ```
 ```
-Avaliação da toxicidade global: pesagem no início do experimento, no dia da injeção i.p. e semanal de cada grupo.
-Observação diária de sinais gerais de toxicidade (perda de pêlo, piloereção, distúrbios gastrointestinais, etc).
+Avaliação da toxicidade global: pesagem no início do experimento, no dia da injeção i.p. e semanal de cada
+grupo. Observação diária de sinais gerais de toxicidade (perda de pêlo, piloereção, distúrbios
+gastrointestinais, etc).
 ```
 ```
-Testes comportamentais: realizados em grupos de 4-6 animais de cada vez, no início do experimento, ao fim de cada
-ciclo de tratamento e ao fim das semanas 6 e 8.
+Testes comportamentais: realizados em grupos de 4-6 animais de cada vez, no início do experimento, ao fim de
+cada ciclo de tratamento e ao fim das semanas 6 e 8.
 Hiperalgesia mecânica: filamentos de Von Frey.
 Hiperalgesia térmica: Hargreaves.
 ```
