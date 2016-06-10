@@ -1,0 +1,82 @@
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = Time.s. ~ Treat, data = ju_venla_alt)
+
+$Treat
+                        diff       lwr        upr     p adj
+Venla_10-cont     -12.333333 -26.65001   1.983344 0.1210386
+Venla_20-cont     -17.750000 -29.43952  -6.060482 0.0008154
+Venla_40-cont     -22.416667 -34.10618 -10.727149 0.0000213
+Venla_60-cont     -30.333333 -44.65001 -16.016656 0.0000032
+Venla_20-Venla_10  -5.416667 -19.73334   8.900011 0.8171817
+Venla_40-Venla_10 -10.083333 -24.40001   4.233344 0.2809560
+Venla_60-Venla_10 -18.000000 -34.53147  -1.468525 0.0267485
+Venla_40-Venla_20  -4.666667 -16.35618   7.022851 0.7863590
+Venla_60-Venla_20 -12.583333 -26.90001   1.733344 0.1090099
+Venla_60-Venla_40  -7.916667 -22.23334   6.400011 0.5215330
+
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = Falls ~ Treat, data = ju_venla_rr_alt)
+
+$Treat
+                       diff        lwr      upr     p adj
+Venla_40-veic     0.1666667 -1.2907313 1.624065 0.9526769
+Venla_60-veic     0.8333333 -0.6240646 2.290731 0.3254797
+Venla_60-Venla_40 0.6666667 -0.7907313 2.124065 0.4778615
+
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = Time.s. ~ Treat, data = ju_venla_rrt_alt)
+
+$Treat
+                       diff       lwr       upr     p adj
+Venla_40-veic      1.000000 -12.23606 14.236059 0.9790229
+Venla_60-veic     -5.333333 -18.56939  7.902725 0.5601689
+Venla_60-Venla_40 -6.333333 -19.56939  6.902725 0.4474543
+
+[[1]]
+            Df Sum Sq Mean Sq F value    Pr(>F)    
+Treat        4 4897.4 1224.35  12.103 1.124e-06 ***
+Residuals   43 4349.8  101.16                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1 
+
+$Treat
+                        diff       lwr        upr        p adj
+Venla_10-cont     -12.333333 -26.65001   1.983344 1.210386e-01
+Venla_20-cont     -17.750000 -29.43952  -6.060482 8.153695e-04
+Venla_40-cont     -22.416667 -34.10618 -10.727149 2.125740e-05
+Venla_60-cont     -30.333333 -44.65001 -16.016656 3.184248e-06
+Venla_20-Venla_10  -5.416667 -19.73334   8.900011 8.171817e-01
+Venla_40-Venla_10 -10.083333 -24.40001   4.233344 2.809560e-01
+Venla_60-Venla_10 -18.000000 -34.53147  -1.468525 2.674853e-02
+Venla_40-Venla_20  -4.666667 -16.35618   7.022851 7.863590e-01
+Venla_60-Venla_20 -12.583333 -26.90001   1.733344 1.090099e-01
+Venla_60-Venla_40  -7.916667 -22.23334   6.400011 5.215330e-01
+
+[[3]]
+            Df  Sum Sq Mean Sq F value Pr(>F)
+Treat        2  2.3333 1.16667  1.2353 0.3187
+Residuals   15 14.1667 0.94444               
+
+$Treat
+                       diff        lwr      upr     p adj
+Venla_40-veic     0.1666667 -1.2907313 1.624065 0.9526769
+Venla_60-veic     0.8333333 -0.6240646 2.290731 0.3254797
+Venla_60-Venla_40 0.6666667 -0.7907313 2.124065 0.4778615
+
+[[5]]
+            Df  Sum Sq Mean Sq F value Pr(>F)
+Treat        2  139.11  69.556  0.8929 0.4302
+Residuals   15 1168.50  77.900               
+
+$Treat
+                       diff       lwr       upr     p adj
+Venla_40-veic      1.000000 -12.23606 14.236059 0.9790229
+Venla_60-veic     -5.333333 -18.56939  7.902725 0.5601689
+Venla_60-Venla_40 -6.333333 -19.56939  6.902725 0.4474543
+

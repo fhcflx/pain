@@ -1,0 +1,42 @@
+No provisório do resumo: 408 
+
+SIBUTRAMINA REVERTE HIPERALGESIA TÉRMICA INDUZIDA POR CARRAGENINA EM RATOS , 
+
+1Sales, M. L. A. de O. **, 2Figueiredo, K. S. de **, 3Fontenele, J. B. , 4Viana, G. S. de B. , 5Cruz, G. M. P. da , 6Felix, 
+
+F. H. C. 
+Objetivos: 
+
+A sibutramina, um inibidor da recaptação de 5-HT, norepinefrina e um pouco dopamina, é utilizada como 
+supressor do apetite no tratamento da obesidade. A analgesia é um efeito de drogas antidepressivas com 
+mecanismo de ação semelhante à sibutramina. A fim de caracterizar em modelo animal o efeito 
+analgésico agudo da sibutramina, testamos esta droga num modelo de hiperalgesia térmica, pesquisando 
+a relação dose-resposta. 
+
+Métodos e Resultados: 
+
+Utilizamos 50 ratos Wistar do sexo feminino, pesando em média 180g, divididos em 5 grupos, cada um 
+com 10 animais. Os animais foram pré-tratados com sibutramina nas doses de 0,1, 0,5, 1,5 e 5 mg/kg. 
+Usamos o modelo de hiperalgesia térmica de Hargreaves (Pain, 32:77-88, 1988). Os animais foram 
+mantidos em jejum durante 4 horas, administrando-se o tratamento por via oral após esse período, e 
+inoculando-se o estímulo inflamatório (carragenina 1mg) na pata direita, ao mesmo tempo. Após 2 h 
+foram submetidos ao estímulo térmico plantar, medindo-se o tempo de reação em segundos. Vinte 
+animais foram previamente testados sem estímulo inflamatório, constituindo o controle negativo. Dez 
+animais receberam apenas estímulo inflamatório e não foram tratados (controle). a sibutramina, nas 
+doses de 0,1, 0,5, 1,5 e 5 mg/kg. mostrou um efeito estatisticamente significante (p< 0,01) de reversão de 
+hiperalgesia térmica nos animais, com um tempo médio (±EPM) de resposta de 6,6(±0,8), 8,8(±0,9), 
+14,2(±1,3) e 14,8(±1,3) segundos, respectivamente. O tempo médio de resposta do grupo controle foi de 
+6(±0,5) segundos enquanto no controle negativo foi de 10(±0,5) segundos. Os resultados mostraram 
+haver uma relação dose-resposta. A regressão sigmoidal do tempo de reação (segundos) com o 
+
+logarítimo da dose de sibutramina (mg/kg) obteve uma curva com R2 = 0,94 e EC50 = 0,72mg/kg (IC95% 
+= 0,16 – 3,22). 
+
+Conclusões 
+
+A sibutramina mostrou efeito analgésico agudo no modelo de hiperalgesia térmica em ratos, que até a 
+dose de 5 mg/kg mostra uma relação log da dose-resposta sigmoidal. 
+
+Apoio 
+
+
