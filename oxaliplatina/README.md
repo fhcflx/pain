@@ -23,3 +23,11 @@ cada ciclo de tratamento e ao fim das semanas 6 e 8.
 Hiperalgesia mecânica: filamentos de Von Frey.
 Hiperalgesia térmica: Hargreaves.
 ```
+
+[Rodriguez-Menendez, Anticancer Research, 2008](https://github.com/fhcflx/pain/blob/master/oxaliplatina/2008_Valproate_Cisplatin_Protective_Neuropathy.pdf)
+```
+Ratos Wistar fêmeas de 200g foram usadas.
+CDDP (cisplatina) foi injetada i.p., 1 ml (salina) numa dose de 2mg/kg, duas vezes por semana, durante 4 semanas.
+```
+
+
