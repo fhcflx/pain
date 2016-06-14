@@ -29,7 +29,8 @@ Hiperalgesia térmica: Hargreaves.
 Animais e protocolo experimental: Ratos Wistar fêmeas de 200g foram usadas.
 CDDP (cisplatina) foi injetada i.p., 1 ml (salina) numa dose de 2mg/kg, duas vezes por semana, durante 4 semanas.
 Grupos de 8 animais.
-Estudo 1: ácido valpróico (VPA) na dose de 300mg/kg/dia por via oral. Administração concomitante de CDDP e VPA por 4 semanas.
+Estudo 1: ácido valpróico (VPA) na dose de 300mg/kg/dia por via oral. Administração concomitante de CDDP e VPA 
+por 4 semanas.
 Estudo 2: CDDP por 4 semanas, seguido de VPA por 2 semanas e mais 2 semanas de repouso sem tratamento.
 ```
 ```
