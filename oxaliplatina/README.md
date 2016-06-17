@@ -23,3 +23,19 @@ cada ciclo de tratamento e ao fim das semanas 6 e 8.
 Hiperalgesia mecânica: filamentos de Von Frey.
 Hiperalgesia térmica: Hargreaves.
 ```
+
+[Rodriguez-Menendez, Anticancer Research, 2008](https://github.com/fhcflx/pain/blob/master/oxaliplatina/2008_Valproate_Cisplatin_Protective_Neuropathy.pdf)
+```
+Animais e protocolo experimental: Ratos Wistar fêmeas de 200g foram usadas.
+CDDP (cisplatina) foi injetada i.p., 1 ml (salina) numa dose de 2mg/kg, duas vezes por semana, durante 4 semanas.
+Grupos de 8 animais.
+Estudo 1: ácido valpróico (VPA) na dose de 300mg/kg/dia por via oral. Administração concomitante de CDDP e VPA 
+por 4 semanas.
+Estudo 2: CDDP por 4 semanas, seguido de VPA por 2 semanas e mais 2 semanas de repouso sem tratamento.
+```
+```
+Avaliações foram realizadas _in vitro_, em neurônios cultivados de DRG e em tecido de DRG fixado. 
+Observação neste trabalho, o ácido valpróico foi neurotóxico, inibindo o crescimento de neurônios cultivados de 
+forma dose-dependente e tendo efeito sinérgico com a cisplatina.
+```
+
