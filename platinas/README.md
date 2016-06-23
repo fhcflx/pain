@@ -52,3 +52,4 @@ B. Qual a dose da cisplatina?
 C. Os testes comportamentais foram realizados 24 ou 48h antes do sacrifício dos animais?
 As duas informações conflitantes estão em locais diferentes da metodologia.
 ```
+Comentário adicionado no pubmed: http://www.ncbi.nlm.nih.gov/pubmed/25896911#cm25896911_16333
