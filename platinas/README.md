@@ -36,10 +36,7 @@ por 4 semanas.
 Estudo 2: CDDP por 4 semanas, seguido de VPA por 2 semanas e mais 2 semanas de repouso sem tratamento.
 ```
 ```
-Avaliações foram realizadas
-```
- _in vitro_,
-``` em neurônios cultivados de DRG e em tecido de DRG fixado.
+Avaliações foram realizadas in vitro, em neurônios cultivados de DRG e em tecido de DRG fixado.
 Observação neste trabalho, o ácido valpróico foi neurotóxico, inibindo o crescimento de neurônios cultivados de
 forma dose-dependente e tendo efeito sinérgico com a cisplatina.
 ```
@@ -48,8 +45,9 @@ forma dose-dependente e tendo efeito sinérgico com a cisplatina.
 
 1. [Chtourou, 2015](https://github.com/fhcflx/pain/blob/master/platinas/Chtourou_JMN_2015_naringin.pdf)
 ```
-Modelo: 
+Modelo:
 O trabalho tem falhas importantes na metodologia:
 A. Qual o esquema de administração da naringina (diário, semanal, outro?).
 B. Qual a dose da cisplatina?
 C. Os testes comportamentais foram realizados 24 ou 48h antes do sacrifício dos animais? As duas informações conflitantes estão em locais diferentes da metodologia.
+``
