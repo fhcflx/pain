@@ -34,8 +34,7 @@ por 4 semanas.
 Estudo 2: CDDP por 4 semanas, seguido de VPA por 2 semanas e mais 2 semanas de repouso sem tratamento.
 ```
 ```
-Avaliações foram realizadas _in vitro_, em neurônios cultivados de DRG e em tecido de DRG fixado. 
+Avaliações foram realizadas ``` _in vitro_, ``` em neurônios cultivados de DRG e em tecido de DRG fixado. 
 Observação neste trabalho, o ácido valpróico foi neurotóxico, inibindo o crescimento de neurônios cultivados de 
 forma dose-dependente e tendo efeito sinérgico com a cisplatina.
 ```
-
