@@ -49,5 +49,6 @@ Modelo:
 O trabalho tem falhas importantes na metodologia:
 A. Qual o esquema de administração da naringina (diário, semanal, outro?).
 B. Qual a dose da cisplatina?
-C. Os testes comportamentais foram realizados 24 ou 48h antes do sacrifício dos animais? As duas informações conflitantes estão em locais diferentes da metodologia.
-``
+C. Os testes comportamentais foram realizados 24 ou 48h antes do sacrifício dos animais?
+As duas informações conflitantes estão em locais diferentes da metodologia.
+```
