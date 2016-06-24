@@ -2,7 +2,7 @@
 
 #### Componente 1: neuropatia periférica
 
-1. [Ta, Molecular Pain, 2009](https://github.com/fhcflx/pain/blob/master/oxaliplatina/Ta_MP_2009_oxaliplatin_cisplatin_pain_model.pdf).
+1. [Ta, Molecular Pain, 2009](https://github.com/fhcflx/pain/blob/master/bib/platinas/Ta_MP_2009_oxaliplatin_cisplatin_pain_model.pdf).
 ```
 Modelo: neuropatia induzida por cisplatina.
 Animais experimentais: camundongos, 9-10 semanas de vida, aclimatados ao laboratório por pelo menos 2 semanas.
@@ -25,7 +25,7 @@ Hiperalgesia mecânica: filamentos de Von Frey.
 Hiperalgesia térmica: Hargreaves.
 ```
 
-2. [Rodriguez-Menendez, Anticancer Research, 2008](https://github.com/fhcflx/pain/blob/master/oxaliplatina/2008_Valproate_Cisplatin_Protective_Neuropathy.pdf)
+2. [Rodriguez-Menendez, Anticancer Research, 2008](https://github.com/fhcflx/pain/blob/master/bib/platinas/2008_Valproate_Cisplatin_Protective_Neuropathy.pdf)
 ```
 Modelo: neuropatia induzida por cisplatina.
 Animais e protocolo experimental: Ratos Wistar fêmeas de 200g foram usadas.
@@ -43,7 +43,7 @@ forma dose-dependente e tendo efeito sinérgico com a cisplatina.
 
 #### Componente 2: neurotoxicidade central
 
-1. [Chtourou, 2015](https://github.com/fhcflx/pain/blob/master/platinas/Chtourou_JMN_2015_naringin.pdf)
+1. [Chtourou, 2015](https://github.com/fhcflx/pain/blob/master/bib/platinas/Chtourou_JMN_2015_naringin.pdf)
 ```
 Modelo:
 O trabalho tem falhas importantes na metodologia:
