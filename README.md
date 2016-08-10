@@ -1,5 +1,5 @@
-# pain
+# Pain
 
-## projects in nociception
+## Projects in nociception
 
 
